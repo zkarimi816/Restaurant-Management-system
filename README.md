@@ -1,3 +1,4 @@
 # RestaurantManagementsystem
 
-This project was done using as part of Python programming course.
+Project: https://www.youtube.com/watch?v=gU8E4Lm8lRQ
+
